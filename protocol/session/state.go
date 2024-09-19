@@ -38,6 +38,10 @@ func NewState(session *v1.SessionStructure) *State {
 	}
 }
 
+func (s *State) GetState() *v1.SessionStructure {
+	return s.session
+}
+
 func (s *State) Clone() *State {
 	session := proto.Clone(s.session)
 	return NewState(session.(*v1.SessionStructure))
