@@ -27,3 +27,8 @@ func NewSigned(id ID, timestamp uint64, key *curve.KeyPair, signature []byte) *S
 func (s *SignedPreKey) KeyPair() (*curve.KeyPair, error) {
 	return curve.NewKeyPair(s.signed.GetPrivateKey(), s.signed.GetPublicKey())
 }
+
+// Get signed
+func GetSigned(s *SignedPreKey) *v1.SignedPreKeyRecordStructure {
+	return s.signed
+}
