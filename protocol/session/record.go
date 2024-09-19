@@ -6,11 +6,11 @@ import (
 	"github.com/golang/glog"
 	"google.golang.org/protobuf/proto"
 
-	"github.com/RTann/libsignal-go/protocol/curve"
-	v1 "github.com/RTann/libsignal-go/protocol/generated/v1"
-	"github.com/RTann/libsignal-go/protocol/identity"
-	"github.com/RTann/libsignal-go/protocol/perrors"
-	"github.com/RTann/libsignal-go/protocol/ratchet"
+	"github.com/Johnkhk/libsignal-go/protocol/curve"
+	v1 "github.com/Johnkhk/libsignal-go/protocol/generated/v1"
+	"github.com/Johnkhk/libsignal-go/protocol/identity"
+	"github.com/Johnkhk/libsignal-go/protocol/perrors"
+	"github.com/Johnkhk/libsignal-go/protocol/ratchet"
 )
 
 // Record holds a record of a session's current and past states.

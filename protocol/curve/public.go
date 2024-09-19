@@ -3,8 +3,8 @@ package curve
 import (
 	"fmt"
 
-	"github.com/RTann/libsignal-go/protocol/curve/curve25519"
-	"github.com/RTann/libsignal-go/protocol/perrors"
+	"github.com/Johnkhk/libsignal-go/protocol/curve/curve25519"
+	"github.com/Johnkhk/libsignal-go/protocol/perrors"
 )
 
 const (

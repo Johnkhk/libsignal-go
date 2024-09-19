@@ -4,7 +4,7 @@ package identity
 import (
 	"io"
 
-	"github.com/RTann/libsignal-go/protocol/curve"
+	"github.com/Johnkhk/libsignal-go/protocol/curve"
 )
 
 var (

@@ -1,4 +1,4 @@
-module github.com/RTann/libsignal-go/protocol
+module github.com/Johnkhk/libsignal-go/protocol
 
 go 1.22.0
 

@@ -6,8 +6,8 @@ import (
 
 	"google.golang.org/protobuf/proto"
 
-	v1 "github.com/RTann/libsignal-go/protocol/generated/v1"
-	"github.com/RTann/libsignal-go/protocol/internal/pointer"
+	v1 "github.com/Johnkhk/libsignal-go/protocol/generated/v1"
+	"github.com/Johnkhk/libsignal-go/protocol/internal/pointer"
 )
 
 // Scannable represents a fingerprint to be displayed on a QR code.

@@ -8,10 +8,10 @@ import (
 
 	"google.golang.org/protobuf/proto"
 
-	"github.com/RTann/libsignal-go/protocol/curve"
-	"github.com/RTann/libsignal-go/protocol/distribution"
-	v1 "github.com/RTann/libsignal-go/protocol/generated/v1"
-	"github.com/RTann/libsignal-go/protocol/perrors"
+	"github.com/Johnkhk/libsignal-go/protocol/curve"
+	"github.com/Johnkhk/libsignal-go/protocol/distribution"
+	v1 "github.com/Johnkhk/libsignal-go/protocol/generated/v1"
+	"github.com/Johnkhk/libsignal-go/protocol/perrors"
 )
 
 var _ Ciphertext = (*SenderKey)(nil)

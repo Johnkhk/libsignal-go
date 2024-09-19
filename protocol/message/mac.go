@@ -4,8 +4,8 @@ import (
 	"crypto/hmac"
 	"crypto/sha256"
 
-	"github.com/RTann/libsignal-go/protocol/identity"
-	"github.com/RTann/libsignal-go/protocol/perrors"
+	"github.com/Johnkhk/libsignal-go/protocol/identity"
+	"github.com/Johnkhk/libsignal-go/protocol/perrors"
 )
 
 const (

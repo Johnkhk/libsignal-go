@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/RTann/libsignal-go/protocol/address"
+	"github.com/Johnkhk/libsignal-go/protocol/address"
 )
 
 var (

@@ -1,9 +1,9 @@
 package protocol
 
 import (
-	"github.com/RTann/libsignal-go/protocol/identity"
-	"github.com/RTann/libsignal-go/protocol/prekey"
-	"github.com/RTann/libsignal-go/protocol/session"
+	"github.com/Johnkhk/libsignal-go/protocol/identity"
+	"github.com/Johnkhk/libsignal-go/protocol/prekey"
+	"github.com/Johnkhk/libsignal-go/protocol/session"
 )
 
 type inMemSignalProtocolStore struct {

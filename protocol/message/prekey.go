@@ -7,11 +7,11 @@ import (
 
 	"google.golang.org/protobuf/proto"
 
-	"github.com/RTann/libsignal-go/protocol/curve"
-	v1 "github.com/RTann/libsignal-go/protocol/generated/v1"
-	"github.com/RTann/libsignal-go/protocol/identity"
-	"github.com/RTann/libsignal-go/protocol/internal/pointer"
-	"github.com/RTann/libsignal-go/protocol/prekey"
+	"github.com/Johnkhk/libsignal-go/protocol/curve"
+	v1 "github.com/Johnkhk/libsignal-go/protocol/generated/v1"
+	"github.com/Johnkhk/libsignal-go/protocol/identity"
+	"github.com/Johnkhk/libsignal-go/protocol/internal/pointer"
+	"github.com/Johnkhk/libsignal-go/protocol/prekey"
 )
 
 var _ Ciphertext = (*PreKey)(nil)

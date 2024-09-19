@@ -11,13 +11,13 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/RTann/libsignal-go/protocol/address"
-	"github.com/RTann/libsignal-go/protocol/curve"
-	"github.com/RTann/libsignal-go/protocol/internal/pointer"
-	"github.com/RTann/libsignal-go/protocol/message"
-	"github.com/RTann/libsignal-go/protocol/perrors"
-	"github.com/RTann/libsignal-go/protocol/prekey"
-	"github.com/RTann/libsignal-go/protocol/session"
+	"github.com/Johnkhk/libsignal-go/protocol/address"
+	"github.com/Johnkhk/libsignal-go/protocol/curve"
+	"github.com/Johnkhk/libsignal-go/protocol/internal/pointer"
+	"github.com/Johnkhk/libsignal-go/protocol/message"
+	"github.com/Johnkhk/libsignal-go/protocol/perrors"
+	"github.com/Johnkhk/libsignal-go/protocol/prekey"
+	"github.com/Johnkhk/libsignal-go/protocol/session"
 )
 
 var (

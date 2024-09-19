@@ -5,7 +5,7 @@ import (
 	"crypto/sha512"
 	"fmt"
 
-	"github.com/RTann/libsignal-go/protocol/identity"
+	"github.com/Johnkhk/libsignal-go/protocol/identity"
 )
 
 var fingerprintVersion = []byte{0x00, 0x00}

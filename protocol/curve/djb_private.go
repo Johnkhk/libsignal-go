@@ -3,7 +3,7 @@ package curve
 import (
 	"io"
 
-	"github.com/RTann/libsignal-go/protocol/curve/curve25519"
+	"github.com/Johnkhk/libsignal-go/protocol/curve/curve25519"
 )
 
 var _ PrivateKey = (*DJBPrivateKey)(nil)

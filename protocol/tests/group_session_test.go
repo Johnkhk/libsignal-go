@@ -12,11 +12,11 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/RTann/libsignal-go/protocol/address"
-	"github.com/RTann/libsignal-go/protocol/distribution"
-	"github.com/RTann/libsignal-go/protocol/message"
-	"github.com/RTann/libsignal-go/protocol/perrors"
-	"github.com/RTann/libsignal-go/protocol/session"
+	"github.com/Johnkhk/libsignal-go/protocol/address"
+	"github.com/Johnkhk/libsignal-go/protocol/distribution"
+	"github.com/Johnkhk/libsignal-go/protocol/message"
+	"github.com/Johnkhk/libsignal-go/protocol/perrors"
+	"github.com/Johnkhk/libsignal-go/protocol/session"
 )
 
 func TestGroupNoSendSession(t *testing.T) {

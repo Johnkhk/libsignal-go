@@ -4,8 +4,8 @@ package prekey
 import (
 	"strconv"
 
-	"github.com/RTann/libsignal-go/protocol/curve"
-	v1 "github.com/RTann/libsignal-go/protocol/generated/v1"
+	"github.com/Johnkhk/libsignal-go/protocol/curve"
+	v1 "github.com/Johnkhk/libsignal-go/protocol/generated/v1"
 )
 
 // ID represents a pre-key identifier.

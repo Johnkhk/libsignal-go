@@ -1,8 +1,8 @@
 package prekey
 
 import (
-	"github.com/RTann/libsignal-go/protocol/curve"
-	v1 "github.com/RTann/libsignal-go/protocol/generated/v1"
+	"github.com/Johnkhk/libsignal-go/protocol/curve"
+	v1 "github.com/Johnkhk/libsignal-go/protocol/generated/v1"
 )
 
 // SignedPreKey represents a public signed pre-key.

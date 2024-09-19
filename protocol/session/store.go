@@ -3,8 +3,8 @@ package session
 import (
 	"context"
 
-	"github.com/RTann/libsignal-go/protocol/address"
-	"github.com/RTann/libsignal-go/protocol/distribution"
+	"github.com/Johnkhk/libsignal-go/protocol/address"
+	"github.com/Johnkhk/libsignal-go/protocol/distribution"
 )
 
 // Store defines a session store.

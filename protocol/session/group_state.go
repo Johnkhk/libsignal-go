@@ -1,9 +1,9 @@
 package session
 
 import (
-	"github.com/RTann/libsignal-go/protocol/curve"
-	v1 "github.com/RTann/libsignal-go/protocol/generated/v1"
-	"github.com/RTann/libsignal-go/protocol/senderkey"
+	"github.com/Johnkhk/libsignal-go/protocol/curve"
+	v1 "github.com/Johnkhk/libsignal-go/protocol/generated/v1"
+	"github.com/Johnkhk/libsignal-go/protocol/senderkey"
 )
 
 // GroupState represents a group session's state.

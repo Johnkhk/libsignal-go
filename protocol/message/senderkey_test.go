@@ -7,8 +7,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/RTann/libsignal-go/protocol/curve"
-	"github.com/RTann/libsignal-go/protocol/distribution"
+	"github.com/Johnkhk/libsignal-go/protocol/curve"
+	"github.com/Johnkhk/libsignal-go/protocol/distribution"
 )
 
 func TestSenderKey(t *testing.T) {

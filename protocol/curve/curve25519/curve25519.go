@@ -12,7 +12,7 @@ import (
 
 	"filippo.io/edwards25519"
 
-	"github.com/RTann/libsignal-go/protocol/perrors"
+	"github.com/Johnkhk/libsignal-go/protocol/perrors"
 )
 
 const (

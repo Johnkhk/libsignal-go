@@ -1,8 +1,8 @@
 package ratchet
 
 import (
-	"github.com/RTann/libsignal-go/protocol/curve"
-	"github.com/RTann/libsignal-go/protocol/identity"
+	"github.com/Johnkhk/libsignal-go/protocol/curve"
+	"github.com/Johnkhk/libsignal-go/protocol/identity"
 )
 
 // AliceParameters represents the "Alice" side

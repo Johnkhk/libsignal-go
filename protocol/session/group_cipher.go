@@ -8,11 +8,11 @@ import (
 
 	"github.com/golang/glog"
 
-	"github.com/RTann/libsignal-go/protocol/crypto/aes"
-	"github.com/RTann/libsignal-go/protocol/distribution"
-	"github.com/RTann/libsignal-go/protocol/message"
-	"github.com/RTann/libsignal-go/protocol/perrors"
-	"github.com/RTann/libsignal-go/protocol/senderkey"
+	"github.com/Johnkhk/libsignal-go/protocol/crypto/aes"
+	"github.com/Johnkhk/libsignal-go/protocol/distribution"
+	"github.com/Johnkhk/libsignal-go/protocol/message"
+	"github.com/Johnkhk/libsignal-go/protocol/perrors"
+	"github.com/Johnkhk/libsignal-go/protocol/senderkey"
 )
 
 // EncryptMessage encrypts the plaintext message.

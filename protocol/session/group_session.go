@@ -8,10 +8,10 @@ import (
 
 	"github.com/golang/glog"
 
-	"github.com/RTann/libsignal-go/protocol/address"
-	"github.com/RTann/libsignal-go/protocol/curve"
-	"github.com/RTann/libsignal-go/protocol/distribution"
-	"github.com/RTann/libsignal-go/protocol/message"
+	"github.com/Johnkhk/libsignal-go/protocol/address"
+	"github.com/Johnkhk/libsignal-go/protocol/curve"
+	"github.com/Johnkhk/libsignal-go/protocol/distribution"
+	"github.com/Johnkhk/libsignal-go/protocol/message"
 )
 
 // GroupSession represents a unidirectional group sender-key encrypted session.

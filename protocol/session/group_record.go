@@ -5,7 +5,7 @@ import (
 
 	"github.com/golang/glog"
 
-	"github.com/RTann/libsignal-go/protocol/curve"
+	"github.com/Johnkhk/libsignal-go/protocol/curve"
 )
 
 const maxSenderKeyStates = 5

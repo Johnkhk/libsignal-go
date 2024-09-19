@@ -10,9 +10,9 @@ import (
 	"github.com/golang/glog"
 	"google.golang.org/protobuf/proto"
 
-	"github.com/RTann/libsignal-go/protocol/curve"
-	v1 "github.com/RTann/libsignal-go/protocol/generated/v1"
-	"github.com/RTann/libsignal-go/protocol/identity"
+	"github.com/Johnkhk/libsignal-go/protocol/curve"
+	v1 "github.com/Johnkhk/libsignal-go/protocol/generated/v1"
+	"github.com/Johnkhk/libsignal-go/protocol/identity"
 )
 
 var _ Ciphertext = (*Signal)(nil)

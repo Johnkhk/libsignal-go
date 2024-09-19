@@ -7,8 +7,8 @@ import (
 
 	"golang.org/x/crypto/hkdf"
 
-	"github.com/RTann/libsignal-go/protocol/curve"
-	"github.com/RTann/libsignal-go/protocol/perrors"
+	"github.com/Johnkhk/libsignal-go/protocol/curve"
+	"github.com/Johnkhk/libsignal-go/protocol/perrors"
 )
 
 const (

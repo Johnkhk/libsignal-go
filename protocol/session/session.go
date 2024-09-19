@@ -10,15 +10,15 @@ import (
 
 	"github.com/golang/glog"
 
-	"github.com/RTann/libsignal-go/protocol/address"
-	"github.com/RTann/libsignal-go/protocol/curve"
-	"github.com/RTann/libsignal-go/protocol/direction"
-	v1 "github.com/RTann/libsignal-go/protocol/generated/v1"
-	"github.com/RTann/libsignal-go/protocol/identity"
-	"github.com/RTann/libsignal-go/protocol/message"
-	"github.com/RTann/libsignal-go/protocol/perrors"
-	"github.com/RTann/libsignal-go/protocol/prekey"
-	"github.com/RTann/libsignal-go/protocol/ratchet"
+	"github.com/Johnkhk/libsignal-go/protocol/address"
+	"github.com/Johnkhk/libsignal-go/protocol/curve"
+	"github.com/Johnkhk/libsignal-go/protocol/direction"
+	v1 "github.com/Johnkhk/libsignal-go/protocol/generated/v1"
+	"github.com/Johnkhk/libsignal-go/protocol/identity"
+	"github.com/Johnkhk/libsignal-go/protocol/message"
+	"github.com/Johnkhk/libsignal-go/protocol/perrors"
+	"github.com/Johnkhk/libsignal-go/protocol/prekey"
+	"github.com/Johnkhk/libsignal-go/protocol/ratchet"
 )
 
 // Session represents a protocol session with another user.

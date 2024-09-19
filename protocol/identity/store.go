@@ -3,8 +3,8 @@ package identity
 import (
 	"context"
 
-	"github.com/RTann/libsignal-go/protocol/address"
-	"github.com/RTann/libsignal-go/protocol/direction"
+	"github.com/Johnkhk/libsignal-go/protocol/address"
+	"github.com/Johnkhk/libsignal-go/protocol/direction"
 )
 
 // Store defines an identity key store.

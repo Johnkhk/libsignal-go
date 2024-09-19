@@ -9,12 +9,12 @@ import (
 
 	"github.com/golang/glog"
 
-	"github.com/RTann/libsignal-go/protocol/crypto/aes"
-	"github.com/RTann/libsignal-go/protocol/curve"
-	"github.com/RTann/libsignal-go/protocol/direction"
-	"github.com/RTann/libsignal-go/protocol/message"
-	"github.com/RTann/libsignal-go/protocol/perrors"
-	"github.com/RTann/libsignal-go/protocol/ratchet"
+	"github.com/Johnkhk/libsignal-go/protocol/crypto/aes"
+	"github.com/Johnkhk/libsignal-go/protocol/curve"
+	"github.com/Johnkhk/libsignal-go/protocol/direction"
+	"github.com/Johnkhk/libsignal-go/protocol/message"
+	"github.com/Johnkhk/libsignal-go/protocol/perrors"
+	"github.com/Johnkhk/libsignal-go/protocol/ratchet"
 )
 
 const MaxJumps = 25_000

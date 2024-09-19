@@ -1,9 +1,9 @@
 package prekey
 
 import (
-	"github.com/RTann/libsignal-go/protocol/address"
-	"github.com/RTann/libsignal-go/protocol/curve"
-	"github.com/RTann/libsignal-go/protocol/identity"
+	"github.com/Johnkhk/libsignal-go/protocol/address"
+	"github.com/Johnkhk/libsignal-go/protocol/curve"
+	"github.com/Johnkhk/libsignal-go/protocol/identity"
 )
 
 // Bundle represents a pre-key bundle as defined by the X3DH protocol.
