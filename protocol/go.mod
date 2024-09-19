@@ -1,4 +1,4 @@
-module github.com/Johnkhk/libsignal-go/protocol
+module github.com/RTann/libsignal-go/protocol
 
 go 1.22.0
 
@@ -6,7 +6,6 @@ toolchain go1.23.0
 
 require (
 	filippo.io/edwards25519 v1.1.0
-	github.com/RTann/libsignal-go/protocol v0.0.0-20240911163515-5e8e62803e7e
 	github.com/golang/glog v1.2.2
 	github.com/google/uuid v1.6.0
 	github.com/stretchr/testify v1.9.0
