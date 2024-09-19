@@ -29,6 +29,6 @@ func (s *SignedPreKey) KeyPair() (*curve.KeyPair, error) {
 }
 
 // Get signed
-func GetSigned(s *SignedPreKey) *v1.SignedPreKeyRecordStructure {
+func (s *SignedPreKey) GetSigned() *v1.SignedPreKeyRecordStructure {
 	return s.signed
 }
